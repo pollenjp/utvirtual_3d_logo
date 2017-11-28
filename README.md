@@ -1,11 +1,14 @@
 <h1>WebAR</h1>
-I create WebAR application.
+I created WebAR application.
 <br>
-I used 3D objects(gltf) in Blender's Primitives.
+<a href="https://www.youtube.com/watch?v=m40xFOJZeeE">How can you play?</a>
 <br>
-<img src="demo_pic/demo_pic01.png" alt="demo_pic01">
+<a href="http://2017komabasai.utvirtual.tech/">UT-virtual 2017Komabasai Web site(Oficial)</a>
+<a href="https://pollenjp.github.io/2017komabasai/">UT-virtual 2017Komabasai Web site(forked)</a>
 <br>
-
-You can use this marker.
+- Ar.js
+- Three.js
+- blender
 <br>
-<img src="marker_pic/ut-virtual_log_marker.png" alt="ut-virtual">
+AR marker
+<img src="./images/utv_egg_hibi_AR-01_blackframe.png">
